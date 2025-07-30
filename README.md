@@ -55,7 +55,7 @@ Or browse all project files on [Hugging Face Spaces](https://huggingface.co/spac
 
 1. **Clone the repo:**
     ```bash
-    git clone https://github.com/yourusername/recycling-waste-classifier.git
+    git clone https://github.com/7Talip/recycling-waste-classifier.git
     cd recycling-waste-classifier
     ```
 
@@ -65,7 +65,9 @@ Or browse all project files on [Hugging Face Spaces](https://huggingface.co/spac
     ```
 
 3. **Download the trained model:**
-    - (If not included) Download `recycling_classifier_12class.pkl` and place it in the project directory.
+👉 [recycling_classifier_12class.pkl (direct download)](https://huggingface.co/spaces/Talip7/recycling_waste_classifier/resolve/main/recycling_classifier_12class.pkl)  
+Or browse all project files on [Hugging Face Spaces](https://huggingface.co/spaces/Talip7/recycling_waste_classifier/tree/main).
+
 
 4. **Run the app:**
     ```bash
