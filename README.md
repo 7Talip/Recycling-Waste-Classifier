@@ -21,7 +21,7 @@ Built with fastai, Gradio, and deployed on Hugging Face Spaces.
 
 ## 📊 Example Output
 
-<img src="assets/demo_screenshot.png" alt="App Screenshot" width="600"/>
+<img src="demo_screenshot.png" alt="App Screenshot" width="600"/>
 
 ---
 
@@ -70,7 +70,7 @@ Built with fastai, Gradio, and deployed on Hugging Face Spaces.
 - **Accuracy:** *96.9%*
 - **Confusion Matrix:**
 
-  <img src="assets/confusion_matrix.png" alt="Confusion matrix" width="500">
+  <img src="confusion_matrix.png" alt="Confusion matrix" width="500">
 
 ---
 
