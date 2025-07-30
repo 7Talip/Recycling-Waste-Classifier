@@ -1,3 +1,5 @@
+import pathlib
+pathlib.PosixPath = pathlib.WindowsPath
 import gradio as gr
 from fastai.learner import load_learner
 from fastai.vision.core import PILImage
