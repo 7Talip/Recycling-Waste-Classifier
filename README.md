@@ -41,6 +41,16 @@ Built with fastai, Gradio, and deployed on Hugging Face Spaces.
 
 ---
 
+## 🔽 Download the Pre-trained Model
+
+You can download the pre-trained model here:  
+👉 [recycling_classifier_12class.pkl (direct download)](https://huggingface.co/spaces/Talip7/recycling_waste_classifier/resolve/main/recycling_classifier_12class.pkl)  
+Or browse all project files on [Hugging Face Spaces](https://huggingface.co/spaces/Talip7/recycling_waste_classifier/tree/main).
+
+**Place the downloaded `.pkl` file in the project root folder before running the app.**
+
+---
+
 ## 🧑‍💻 How to Run Locally
 
 1. **Clone the repo:**
