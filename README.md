@@ -74,15 +74,6 @@ Built with fastai, Gradio, and deployed on Hugging Face Spaces.
 
 ---
 
-## 🧠 Future Work
-
-- Improve data balance and model accuracy
-- Add GradCAM or other explainability features
-- Mobile/edge deployment (Raspberry Pi, Android, etc.)
-- Multilingual interface
-
----
-
 ## 📄 License
 
 MIT
